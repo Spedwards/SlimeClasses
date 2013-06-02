@@ -1,0 +1,11 @@
+main: com.theaetherserver.slimeclasses.Main
+name: SlimeClasses
+author: PinkSlime
+website: http://theaetherserver.com
+version: 1.0
+description: Adds classes to the server.
+commands:
+    setclass:
+        description: Sets your class.
+    classlist:
+        description: Lists the available classes.
